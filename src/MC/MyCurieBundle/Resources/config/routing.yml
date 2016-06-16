@@ -1,0 +1,7 @@
+mc_my_curie_homepage:
+    path:     /
+    defaults: { _controller: MCMyCurieBundle:Default:index }
+hello_the_world:
+    path: /hello-world
+    defaults: { _controller: MCMyCurieBundle:Advert:index }
+

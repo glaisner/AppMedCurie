@@ -1,0 +1,4 @@
+services:
+#    mc_my_curie.example:
+#        class: MC\MyCurieBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+mc_my_curie_homepage:
+    path:     /
+    defaults: { _controller: MCMyCurieBundle:Default:index }
